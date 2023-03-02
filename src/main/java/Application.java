@@ -11,7 +11,7 @@ public class Application {
         Lab parrot = new Lab();
 
         System.out.println("Here's what Lab.copy returns when provided the value \"repeat after me\"");
-        String val1 = "repeat after me";
+        String val1 = "polly";
         String output1 = parrot.copy(val1);
         System.out.println(output1);
 
